@@ -1,0 +1,19 @@
+#contentBackground {
+  width: 100%;
+  min-height: 70%;
+  background-color: rgba(255,255,255,0.85);
+}
+
+.section p {
+  text-align: center;
+}
+
+button {
+  background-color: olivedrab;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 15px;
+  padding: 10px 40px;
+  margin: 10px;
+}
